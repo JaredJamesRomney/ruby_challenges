@@ -1,0 +1,35 @@
+body {
+	background-image: url("detroit.jpg")
+}
+
+h1 {
+	margin: auto;
+	text-align: center;
+	font-size: 60px;
+}
+
+thead {
+	text-align: left;
+	margin: auto;
+	font-size: 45px;
+
+}
+thead tr th {
+	padding-left: 30px;
+}
+
+thead .links {
+	color: white;
+}
+
+#photo {
+	height: 75px;
+}
+
+#photo_show {
+	height: 300px;
+}
+
+* {
+	color: white;
+}
